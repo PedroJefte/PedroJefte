@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EE6DC,100:3FA7E8&height=170&section=header&text=Pedro%20Jefte&fontSize=52&fontColor=0B1220&fontAlignY=38&desc=Desenvolvedor%20Front-end%20%C2%B7%20em%20busca%20de%20est%C3%A1gio&descAlignY=60&descSize=18" width="100%" alt="Pedro Jefte">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EE6DC,100:3FA7E8&height=170&section=header&text=Pedro%20Jefte&fontSize=52&fontColor=0B1220&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descAlignY=60&descSize=18" width="100%" alt="Pedro Jefte">
 
+<br>
 
+<a href="https://pedrojefte.github.io">
+  <img src="https://img.shields.io/badge/🌐_MEU_PORTFÓLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=5EE6DC" alt="Acessar meu portfólio">
+</a>
+
+<br><br>
 
 Portfólio · LinkedIn · E-mail · Currículo
 
