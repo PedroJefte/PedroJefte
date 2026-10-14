@@ -15,6 +15,7 @@ Portfólio · LinkedIn · E-mail · Currículo
 </div>
 
 ✦ Sobre mim
+
 const pedro = {
 
   cidade: "Recife, PE",
