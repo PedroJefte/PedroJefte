@@ -17,9 +17,13 @@ Portfólio · LinkedIn · E-mail · Currículo
 ✦ Sobre mim
 const pedro = {
   cidade: "Recife, PE",
+  
   formacao: "Análise e Desenvolvimento de Sistemas · Uninassau (2026)",
+  
   foco: "front-end",
+  
   aprendendo: ["Node.js", "SQL"],
+  
   procurando: "estágio em desenvolvimento",
 };
 Comecei a programar pelo front-end porque gosto de ver o resultado na hora, no navegador. Hoje estudo Node.js e SQL para construir aplicações completas e procuro um estágio para aprender em um time de verdade.
