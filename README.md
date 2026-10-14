@@ -16,6 +16,7 @@ Portfólio · LinkedIn · E-mail · Currículo
 
 ✦ Sobre mim
 const pedro = {
+
   cidade: "Recife, PE",
   
   formacao: "Análise e Desenvolvimento de Sistemas · Uninassau (2026)",
